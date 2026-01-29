@@ -2,7 +2,7 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Prem Dilip DhumaL
+NAME: Prem Dilip Dhumal
 
 INTERN ID: CTIS1752
 
